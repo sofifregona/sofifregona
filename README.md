@@ -47,7 +47,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 <a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer">
-<img src="https://nodejs.org/static/images/logo.svg" alt="node" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50" height="50"/>
 </a>
 </p>
 
