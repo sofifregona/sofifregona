@@ -9,7 +9,7 @@
 <hr></hr>
 
 
-- 🚀 My last project is ["Criptex" for Oracle ONE 1st Challenge](https://github.com/sofifregona/Criptex-Oracle-ONE).
+- 🚀 My last project is [Sistema de Gestión para bibliotecas, Back-end challenge](https://github.com/sofifregona/node_project_ialab).
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js, and Java**.
 
