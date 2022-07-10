@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm María Sofía</h1>
-<h3 align="center"><i>I’m from Santa Fe, Argentina and I'm studying <a href="https://www.unl.edu.ar/carreras/ingenieria-industrial/">Industrial Engineering</a> at <a href="https://www.fiq.unl.edu.ar/">FIQ</a> <a href="https://www.unl.edu.ar/">UNL</a> and <a href="https://www.frsf.utn.edu.ar/tuti">Information Technology University Technician</a> at <a href="https://www.frsf.utn.edu.ar/">FRSF UTN</a>. I'm also participating in the <a href="https://www.oracle.com/ar/education/oracle-next-education/">Oracle Next Education</a> program, and in the <a href="https://ialab.com.ar/programa-de-formacion-multidisciplinario-de-inteligencia-artificial/">Artificial Intelligence Multidisciplinary Training Program</a> of <a href="https://www.uba.ar/#/">UBA</a> <a href="https://ialab.com.ar/">IALAB</a>.</i></h3>
+<h3 align="center"><i>I’m from Santa Fe, Argentina and I'm studying <a href="https://www.unl.edu.ar/carreras/ingenieria-industrial/">Industrial Engineering</a> at <a href="https://www.fiq.unl.edu.ar/">FIQ</a> <a href="https://www.unl.edu.ar/">UNL</a> and <a href="https://www.frsf.utn.edu.ar/tuti">Information Technology University Technician</a> at <a href="https://www.frsf.utn.edu.ar/">FRSF UTN</a>. I'm also participating in the <a href="https://www.oracle.com/ar/education/oracle-next-education/">Oracle Next Education</a> program, the <a href="https://ialab.com.ar/programa-de-formacion-multidisciplinario-de-inteligencia-artificial/">Artificial Intelligence Multidisciplinary Training Program</a> of <a href="https://www.uba.ar/#/">UBA</a> <a href="https://ialab.com.ar/">IALAB</a>, the <a href="https://www.educacionit.com/curso-de-data-analytics">Data Analytics</a> program of <a href="https://www.educacionit.com/">EducacionIT</a>, the <a href="https://www.argentina.gob.ar/produccion/transformacion-digital-y-economia-del-conocimiento/argentina-programa"Argentina Programa</a> program of <a href="https://www.argentina.gob.ar/"Gobierno Nacional de Argentina</a>, and the <a href="https://www.buenosaires.gob.ar/educacion/codo-codo">Codo a codo 4.0</a> program of <a href="https://www.buenosaires.gob.ar/">Gobierno de la Ciudad de Buenos Aires.</a></i></h3>
 
 <!--Contador de visitas-->
 <p></p>
@@ -9,11 +9,11 @@
 <hr></hr>
 
 
-- 🚀 My last project is [Sistema de Gestión para bibliotecas, Back-end challenge](https://github.com/sofifregona/node_project_ialab).
+- 🚀 My last project is [E-commerce Geek](https://github.com/sofifregona/ecommerce_alura_geek) as part of the 2nd Font-end's Challenge for Oracle-ONE.
 
-- 🌱 I’m currently learning **JavaScript, React, Node.js, and Java**.
+- 🌱 I’m currently learning **MySQL, Python, and Java**.
 
-- 💡 I'm very intresting in **Data Science and Artificial Intelligence**.
+- 💡 I'm very interesting in **Data Science and Artificial Intelligence**.
 
 - 💼 I'm working on my portfolio. Meanwhile you can see all my projects on [GitHub](https://github.com/sofifregona?tab=repositories).
 
@@ -49,6 +49,12 @@
 <a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50" height="50"/>
 </a>
+<a href="https://getbootstrap.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+</a>          
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofifregona&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
