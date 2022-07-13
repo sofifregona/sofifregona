@@ -9,7 +9,7 @@
 <hr></hr>
 
 
-- 🚀 My last project is [E-commerce Geek](https://github.com/sofifregona/ecommerce_alura_geek) as part of the 2nd Front-end's Challenge for Oracle-ONE.
+- 🚀 My last project is [Sofía - shop](https://github.com/sofifregona/Sofia-tienda-de-ropa).
 
 - 🌱 I’m currently learning **MySQL, Python, and Java**.
 
