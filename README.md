@@ -11,7 +11,7 @@
 
 - 🚀 My last project is [Sofía - shop](https://github.com/sofifregona/Sofia-tienda-de-ropa).
 
-- 🌱 I’m currently learning **MySQL, Python, and Java**.
+- 🌱 I’m currently learning **SQL Server, Python, and C#**.
 
 - 💡 I'm very interesting in **Data Science and Artificial Intelligence**.
 
