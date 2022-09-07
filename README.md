@@ -11,7 +11,7 @@
 
 - 🚀 My last project is [Sofía - shop](https://github.com/sofifregona/Sofia-tienda-de-ropa).
 
-- 🌱 I’m currently learning **SQL Server, Python, and C#**.
+- 🌱 I’m currently learning **SQL Server, Python, and Unity**.
 
 - 💡 I'm very interesting in **Data Science and Artificial Intelligence**.
 
@@ -54,7 +54,7 @@
 </a>
 <a href="https://www.mysql.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>          
-</a>          
+</a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofifregona&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
