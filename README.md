@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm María Sofía</h1>
-<h3 align="center"><i>I’m from Santa Fe, Argentina and I'm studying <a href="https://www.unl.edu.ar/carreras/ingenieria-industrial/">Industrial Engineering</a> at <a href="https://www.fiq.unl.edu.ar/">FIQ</a> <a href="https://www.unl.edu.ar/">UNL</a> and <a href="https://www.frsf.utn.edu.ar/tuti">Information Technology University Technician</a> at <a href="https://www.frsf.utn.edu.ar/">FRSF UTN</a>. I'm also participating in the <a href="https://www.oracle.com/ar/education/oracle-next-education/">Oracle Next Education</a> program, the <a href="https://ialab.com.ar/programa-de-formacion-multidisciplinario-de-inteligencia-artificial/">Artificial Intelligence Multidisciplinary Training Program</a> of <a href="https://www.uba.ar/#/">UBA</a> <a href="https://ialab.com.ar/">IALAB</a>, the <a href="https://www.educacionit.com/curso-de-data-analytics">Data Analytics</a> program of <a href="https://www.educacionit.com/">EducacionIT</a>, the <a href="https://www.argentina.gob.ar/produccion/transformacion-digital-y-economia-del-conocimiento/argentina-programa">Argentina Programa</a> program of <a href="https://www.argentina.gob.ar/">Gobierno Nacional de Argentina</a>, and the <a href="https://www.buenosaires.gob.ar/educacion/codo-codo">Codo a codo 4.0</a> program of <a href="https://www.buenosaires.gob.ar/">Gobierno de la Ciudad de Buenos Aires.</a></i></h3>
+<h3 align="center"><i>I’m from Santa Fe, Argentina and I'm studying <a href="https://www.unl.edu.ar/carreras/ingenieria-industrial/">Industrial Engineering</a> at <a href="https://www.fiq.unl.edu.ar/">FIQ</a> <a href="https://www.unl.edu.ar/">UNL</a> and <a href="https://www.frsf.utn.edu.ar/tuti">Information Technology University Technician</a> at <a href="https://www.frsf.utn.edu.ar/">FRSF UTN</a>. Nowadays I'm also doing the <a href="https://www.coderhouse.com/online/data-science">Data Science Course</a> at <a href="https://www.coderhouse.com/">Coderhouse</a>.</i></h3>
 
 <!--Contador de visitas-->
 <p></p>
@@ -8,10 +8,9 @@
 
 <hr></hr>
 
-
 - 🚀 My last project is [Sofía - shop](https://github.com/sofifregona/Sofia-tienda-de-ropa).
 
-- 🌱 I’m currently learning **SQL Server, Python, and Unity**.
+- 🌱 I’m currently learning **Python, Power BI and Tableau**.
 
 - 💡 I'm very interesting in **Data Science and Artificial Intelligence**.
 
@@ -22,39 +21,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p></p>
 <p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>        
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>          
-</a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+<a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
+<a href="https://www.tableau.com"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"></a>
+<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.gams.com"><img src="https://www.gams.com/img/logo_square.png" alt="gams" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofifregona&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
