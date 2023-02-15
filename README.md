@@ -8,7 +8,7 @@
 
 <hr></hr>
 
-- 🚀 My last project is [Sofía - shop](https://github.com/sofifregona/Sofia-tienda-de-ropa).
+- 🚀 My last project is [Superstore Data Analysis](https://github.com/sofifregona/Superstore_DataAnalysis).
 
 - 🌱 I’m currently learning **Python, Power BI and Tableau**.
 
