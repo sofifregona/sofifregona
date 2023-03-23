@@ -8,7 +8,7 @@
 
 <hr></hr>
 
-- 🚀 My last project is [Superstore Data Analysis](https://github.com/sofifregona/Superstore_DataAnalysis).
+- 🚀 My last project is [Marketing, Modelo predictivo](https://github.com/sofifregona/marketing_modelo_predictivo).
 
 - 🌱 I’m currently learning **Python, Power BI and Tableau**.
 
