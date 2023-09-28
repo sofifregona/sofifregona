@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm María Sofía</h1>
-<h3 align="center"><i>I’m from Santa Fe, Argentina and I'm studying <a href="https://www.unl.edu.ar/carreras/ingenieria-industrial/">Industrial Engineering</a> at <a href="https://www.fiq.unl.edu.ar/">FIQ</a> <a href="https://www.unl.edu.ar/">UNL</a> and <a href="https://www.frsf.utn.edu.ar/tuti">Information Technology University Technician</a> at <a href="https://www.frsf.utn.edu.ar/">FRSF UTN</a>. Nowadays I'm also doing the <a href="https://www.coderhouse.com/online/data-science">Data Science Course</a> at <a href="https://www.coderhouse.com/">Coderhouse</a>.</i></h3>
+<h3 align="center"><i>I’m from Santa Fe, Argentina but nowadays I'm living in Italy! I'm a <a href="https://www.frsf.utn.edu.ar/tuti">University Technician in Information Technologies</a>. I studied web development, but I also have knowledge in data science and data analysis.</i></h3>
 
 <!--Contador de visitas-->
 <p></p>
@@ -8,11 +8,11 @@
 
 <hr></hr>
 
-- 🚀 My last project is [Marketing, Modelo predictivo](https://github.com/sofifregona/marketing_modelo_predictivo).
+- 🚀 My last project is [Salesmanager](https://github.com/sofifregona/sales_manager).
 
-- 🌱 I’m currently learning **Python, Power BI and Tableau**.
+- 🌱 I’m currently learning **Hibernate, React**.
 
-- 💡 I'm very interesting in **Data Science and Artificial Intelligence**.
+- 💡 I'm very interesting in **Artificial Intelligence Applied to Video Games**.
 
 - 💼 I'm working on my portfolio. Meanwhile you can see all my projects on [GitHub](https://github.com/sofifregona?tab=repositories).
 
@@ -39,8 +39,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofifregona&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![María Sofía Fregona's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofifregona&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sofifregona&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <h3 align="center">Connect with me:</h3>
