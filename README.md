@@ -10,7 +10,7 @@
 
 - 🚀 My last project is [Salesmanager](https://github.com/sofifregona/sales_manager).
 
-- 🌱 I’m currently learning **Hibernate, React**.
+- 🌱 I’m currently learning **Spring framework, React**.
 
 - 💡 I'm very interesting in **Artificial Intelligence Applied to Video Games**.
 
