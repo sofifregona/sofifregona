@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Spring framework, React**.
 
-- 💡 I'm very interesting in **Artificial Intelligence Applied to Video Games**.
+- 💡 I'm very interesting in **Video Games development**.
 
-- 💼 I'm working on my portfolio. Meanwhile you can see all my projects on [GitHub](https://github.com/sofifregona?tab=repositories).
+- 💼 You can see all my projects on my [Portfolio](https://sofifregona.github.io/portfolio/index).
 
 - 📧 How to reach me **sofi.fregona@gmail.com**
 
