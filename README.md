@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm María Sofía</h1>
-<h3 align="center"><i>I’m from Santa Fe, Argentina but nowadays I'm living in Italy! I'm a <a href="https://www.frsf.utn.edu.ar/tuti">University Technician in Information Technologies</a>. I studied web development, but I also have knowledge in data science and data analysis.</i></h3>
+<h3 align="center"><i>I’m from Santa Fe, Argentina but nowadays I'm living in Sameda, Switzerland! I'm a <a href="https://www.frsf.utn.edu.ar/tuti">University Technician in Information Technologies</a> specialized in web development, and nowadays I'm studying <a href="https://davinci.edu.ar/carreras/diseno-y-programacion-de-videojuegos">Videogame Design and Development</a>. I also have knowledge in data science and data analysis.</i></h3>
 
 <!--Contador de visitas-->
 <p></p>
