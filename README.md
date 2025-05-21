@@ -10,7 +10,7 @@
 
 - 🚀 My last project is [Salesmanager](https://github.com/sofifregona/sales_manager).
 
-- 🌱 I’m currently learning **Spring framework, React**.
+- 🌱 I’m currently learning **React** and **Node.js**.
 
 - 💡 I'm very interesting in **Video Games development**.
 
