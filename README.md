@@ -8,13 +8,13 @@
 
 <hr></hr>
 
-- 🚀 My last project is [Salesmanager](https://github.com/sofifregona/sales_manager).
+- 🚀 My last project is [Migration of Sales Manager](https://github.com/sofifregona/sales_manager_migration).
 
 - 🌱 I’m currently learning **React** and **Node.js**.
 
-- 💡 I'm very interesting in **Video Games development**.
+- 💡 I'm very interesting in **Video Game development**.
 
-- 💼 You can see all my projects on my [Portfolio](https://sofifregona.github.io/portfolio/index).
+- 💼 I'm currently working on my **Portfolio**.
 
 - 📧 How to reach me **sofi.fregona@gmail.com**
 
@@ -35,9 +35,9 @@
 <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
 <a href="https://www.gams.com"><img src="https://www.gams.com/img/logo_square.png" alt="gams" width="40" height="40"/></a>
 </p>
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofifregona&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 [![María Sofía Fregona's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofifregona&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
