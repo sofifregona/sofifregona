@@ -36,9 +36,9 @@
 <a href="https://www.gams.com"><img src="https://www.gams.com/img/logo_square.png" alt="gams" width="40" height="40"/></a>
 </p>
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofifregona&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 [![María Sofía Fregona's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofifregona&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
