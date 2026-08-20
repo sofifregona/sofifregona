@@ -8,7 +8,7 @@
 
 <hr></hr>
 
-- 🚀 My last project is [Migration of Sales Manager](https://github.com/sofifregona/sales_manager_migration).
+- 🚀 My last project is [Oftalmo LENS](#).
 
 - 🌱 I’m currently learning **React** and **Node.js**.
 
