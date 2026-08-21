@@ -38,8 +38,6 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sofifregona&hide=jupyter%20notebook&layout=compact&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=sofifregona&layout=compact&langs_count=4&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofifregona&hide=jupyter%20notebook&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![María Sofía Fregona's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofifregona&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
