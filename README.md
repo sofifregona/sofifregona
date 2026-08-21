@@ -39,7 +39,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sofifregona&hide=jupyter%20notebook&layout=compact&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=sofifregona&layout=compact&langs_count=4&theme=dracula)
 
 
-[![María Sofía Fregona's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofifregona&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sofifregona&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=sofifregona&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula)
 
 
 <h3 align="center">Connect with me:</h3>
